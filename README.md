@@ -1,5 +1,7 @@
 # crime-logger-using-google-maps
-a website where users can register and uplaod a repot of crime based on location on google maps,pleople living near by will be notified by email and asked to vote on the crime log.All unregistered users can view  the posted crime logs and votes made by registered users..
+-Google Maps based Crime Logger with Email notification to registered users and voting system.
+
+A website where users can register and uplaod a repot of crime based on location on google maps, pleople living near by will be notified by email and asked to vote on the crime log. All unregistered users can view  the posted crime logs and votes made by registered users..
 
 ------
 # Home Page/ Login Screen
