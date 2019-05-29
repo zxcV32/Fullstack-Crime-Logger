@@ -3,15 +3,16 @@ a website where users can register and uplaod a repot of crime based on location
 
 ------
 # Home Page/ Login Screen
-
+<kbd>
 ![image](https://user-images.githubusercontent.com/18421306/49336967-a6f98180-f631-11e8-861d-efea7624a7aa.PNG)
-
+</kbd>
 ------
 # Report and votes page
-
+<kbd>
 ![image](https://user-images.githubusercontent.com/18421306/49336969-aeb92600-f631-11e8-8153-577ce68f4d39.PNG)
-
+</kbd>
 ------
 # Crime reporting Page
-
+<kbd>
 ![image](https://user-images.githubusercontent.com/18421306/49336971-afea5300-f631-11e8-8ab7-1b89e39f7a00.PNG)
+</kbd>
