@@ -4,7 +4,7 @@ a website where users can register and uplaod a repot of crime based on location
 ------
 # Home Page/ Login Screen
 
-|![image](https://user-images.githubusercontent.com/18421306/49336967-a6f98180-f631-11e8-861d-efea7624a7aa.PNG)|
+![image](https://user-images.githubusercontent.com/18421306/49336967-a6f98180-f631-11e8-861d-efea7624a7aa.PNG)
 
 ------
 # Report and votes page
