@@ -4,6 +4,7 @@
 A website where users can register and uplaod a repot of crime based on location on google maps, pleople living near by will be notified by email and asked to vote on the crime log. All unregistered users can view  the posted crime logs and votes made by registered users..
 
 **Front End:** Bootstrap, jQuery, ChartJS charts, Google Maps.
+
 **Back End:** ChartJS API, Google Maps API, PHP, MySQL
 
 ------
